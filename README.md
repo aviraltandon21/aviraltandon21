@@ -28,8 +28,8 @@ I love experimenting with new technologies and building small projects.
 
   <p align="center">
     <a href="https://twitter.com/AviralTandon5?s=09" alt="Twitter"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/linkedin.png"></a>
-    <a href="https://www.instagram.com/imdhruv_28" alt="Instagram"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/insta.png"></a>
+    <a href="https://www.linkedin.com/in/aviral-tandon-b852891a1/" alt="Linkedin"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/linkedin.png"></a>
+    <a href="https://www.instagram.com/aviral_tandon" alt="Instagram"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/insta.png"></a>
     <a href="https://github.com/aviraltandon21" alt="GitHub"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/github.png"></a>
    
 
