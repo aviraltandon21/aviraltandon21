@@ -1,18 +1,39 @@
-### Hi there 👋
-
 ![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/photo.jpg?raw=true)
 
-<!--
-**aviraltandon21/aviraltandon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey,👋 It's Aviral Tandon here , sophomore at Indian Institute Of Information Technology, Vadodara.
 
-Here are some ideas to get you started:
+I love experimenting with new technologies and building small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working and exploring in field of Web Developement.
+- 🌱 I’m currently learning UI/UX Designing.
+- 💻 I'm also looking forward to explore the field of Data Science, and Machine Learning in future..
+
+<details>
+Some interesting facts about me!
+  <br>
+
+  - In mean time, I also practice Competitive Programming..
+
+  - Reading Novels, Watching series and movies -Sci-Fi,Thriller,Mystery..
+  
+</details>
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=aviraltandon21&show_icons=true)
+
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/AviralTandon5?s=09" alt="Twitter"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/linkedin.png"></a>
+    <a href="https://www.instagram.com/imdhruv_28" alt="Instagram"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/insta.png"></a>
+    <a href="https://github.com/aviraltandon21" alt="GitHub"><img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/github.png"></a>
+   
+
+  </p>
+
+</p>
+
