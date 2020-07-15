@@ -9,7 +9,7 @@ I love experimenting with new technologies and building small projects.
 - 💻 I'm also looking forward to explore the field of Data Science, and Machine Learning in future..
 
 <details>
-Some interesting facts about me!
+  <summary>Some interesting facts about me!</summary>
   <br>
 
   - In mean time, I also practice Competitive Programming..
