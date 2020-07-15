@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/photo.jpeg?raw=true)
+![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/photo.jpg?raw=true)
 
 <!--
 **aviraltandon21/aviraltandon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
