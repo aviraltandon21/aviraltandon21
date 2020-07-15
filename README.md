@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/aviraltandon21/aviraltandon21/photo.jpeg">
+<img src="https://github.com/imdhruv99/imdhruv99/blob/master/photo.jpg">
 
 <!--
 **aviraltandon21/aviraltandon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
