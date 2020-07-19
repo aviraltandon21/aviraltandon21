@@ -1,4 +1,3 @@
-![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/main.jpg?raw=true)
 ![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/play.gif?raw=true)
 
 ### Hey,👋 It's Aviral Tandon here , sophomore at Indian Institute Of Information Technology, Vadodara.
