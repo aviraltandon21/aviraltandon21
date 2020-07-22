@@ -22,7 +22,7 @@ I love experimenting with new technologies and building small projects.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=aviraltandon21&show_icons=true)
 
 
-![](https://komarev.com/ghpvc/?username=aviraltandon21) 
+![](https://komarev.com/ghpvc/?username=aviraltandon21&color=orange&style=flat-square) 
 
 <hr>
 <p align="center">
