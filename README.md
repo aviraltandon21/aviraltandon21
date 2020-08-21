@@ -20,6 +20,7 @@ I love experimenting with new technologies and building small projects.
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=aviraltandon21&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraltandon21)](https://github.com/aviraltandon21/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=aviraltandon21&color=orange&style=flat-square) 
