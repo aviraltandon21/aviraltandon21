@@ -20,6 +20,7 @@ I love experimenting with new technologies and building small projects.
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=aviraltandon21&show_icons=true&theme=synthwave)
+![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif?raw=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraltandon21)](https://github.com/aviraltandon21/github-readme-stats)
 
 
