@@ -1,4 +1,10 @@
-![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/play.gif?raw=true)
+<p align="center"><a href="https://aviraltandon.com/">
+    <img src="https://github.com/aviraltandon21/aviraltandon21/blob/master/intro.gif?raw=true" height="300px" />
+  </a>
+  
+  <b><p align="center" style="fontsize=90px">Glad to see you here.</p></b>
+
+<!-- ![image](https://github.com/aviraltandon21/aviraltandon21/blob/master/play.gif?raw=true) -->
 
 ### Hey,👋 It's Aviral Tandon here , sophomore at Indian Institute Of Information Technology, Vadodara.
 
