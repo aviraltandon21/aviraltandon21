@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aviral Tandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Aviral Tandon <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Computer+Science+Student;MERN+Stack+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
@@ -81,4 +81,5 @@
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aviraltandon20@gmail.com)
 </p>
 <hr/>
+<p align="center"><img src="https://raw.githubusercontent.com/aviraltandon21/aviraltandon21/master/dino.gif"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/aviraltandon21/aviraltandon21/master/footer.png"></p>
