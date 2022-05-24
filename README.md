@@ -11,7 +11,7 @@
  
  <p align="center">
   Hi, I am Aviral , a 3rd year CSE undergraduate student who has a keen interest in new technologies. <br/>I enjoy the process of problem solving and that developed a bias in me towards Software Development.<br/>
-I am passionate about Web Development and have prior experience in working in MERN stack.<br/> I am a curious person , I am always ready to challenge myself and explore new areas of work. I never stop learning and for me, each new project is another adventure.
+I am passionate about Web Development and have prior experience in working in MERN stack.<br/> I am a curious person , I am always ready to challenge myself and explore new areas of work.<br/> I never stop learning and for me, each new project is another adventure.
   </p>
  
 <p align="center" ><img 
