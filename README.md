@@ -21,7 +21,9 @@ I am passionate about Web Development and have prior experience in working in ME
 <br/>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aviraltandon21&count_private=true&show_icons=true&theme=nightowl&line_height=32">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraltandon21&theme=dark">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraltandon21&theme=algolia">
+  
 </p>
 
 <p align="center">
