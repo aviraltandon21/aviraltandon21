@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Computer+Science+Student;MERN+Stack+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Glad to see you here</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">Glad to see you here</h1>
 <p align="center"><b>  <a href="https://aviraltandon.com/">
     <img width="100" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
