@@ -11,11 +11,14 @@
  
  <p align="center">
   Hi, I am Aviral , a 3rd year CSE undergraduate student who has a keen interest in new technologies. <br/>I enjoy the process of problem solving and that developed a bias in me towards Software Development.<br/>
-I am passionate about Web Development and have prior experience in working in MERN stack.<br/> I am a curious person , I am always ready to challenge myself and explore new areas of work.<br/> I never stop learning and for me, each new project is another adventure.
   </p>
  
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="60%"/></p>
+ 
+ <p align="center">
+ I am passionate about Web Development and have prior experience in working in MERN stack.<br/> I am a curious person , I am always ready to challenge myself and explore new areas of work.<br/> I never stop learning and for me, each new project is another adventure.
+  </p>
   
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> My Github Stats</h2> </summary>
 <br/>
