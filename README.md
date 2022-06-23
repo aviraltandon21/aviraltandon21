@@ -14,12 +14,18 @@
   </p>
  
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="60%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
  
  <p align="center">
  I am passionate about Web Development and have prior experience in working in MERN stack.<br/> I am a curious person , I am always ready to challenge myself and explore new areas of work.<br/> I never stop learning and for me, each new project is another adventure.
   </p>
-  
+
+<summary><h2>🙇‍♂️ My Leetcode Stats</h2> </summary>
+<br/>
+<p align = "center">
+  <img src = "https://leetcode.card.workers.dev/aviral_tandon?theme=dark&font=source_code_pro&extension=activity">
+</p>
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> My Github Stats</h2> </summary>
 <br/>
 <p align = "center">
@@ -39,56 +45,65 @@
 <br>
 <div align="center">
     <a href="">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="98px" height="38px" padding= "10px">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="98px" height="38px" padding= "10px">
    </a>
     <a href="">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="98px" height="38px" padding= "10px">
   </a>
     <a href="">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="98px" height="38px" padding= "10px">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="98px" height="38px" padding= "10px">
   </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="98px" height="38px" padding= "10px">
    </a>
     <a href="">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="98px" height="38px" padding= "10px">
    </a>
     <a href="">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="98px" height="38px" padding= "10px">
    </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
+        <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" width="98px" height="38px" padding= "10px">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" width="98px" height="38px" padding= "10px">
    </a>
     <a href="">
-        <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white">
+        <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" width="98px" height="38px" padding= "10px">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="98px" height="38px" padding= "10px">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="98px" height="38px" padding= "10px">
     </a>
 </div>
+
+
+
+<summary><h2>🏅 Coding Platforms</h2></summary>
+<div align = "center">
+<a href="https://www.leetcode.com/aviral_tandon target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/aviral_tandon/" width="98px" height="25px" padding= "10px"/></a>
+<a href="https://auth.geeksforgeeks.org/user/aviraltandon20/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/aviraltandon20/practice/" width="128px" height="25px" padding= "10px"/></a>
+</div>
+<br/>
 
  <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
 <div align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://aviraltandon.com/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aviral-tandon-b852891a1/)
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aviraltandon20@gmail.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AviralTandon5) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aviral_tandon/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" width="98px" height="30px" padding= "10px">](https://aviraltandon.com/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="98px" height="30px" padding= "10px"/>](https://www.linkedin.com/in/aviral-tandon-b852891a1/)
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="98px" height="30px" padding= "10px">](mailto:aviraltandon20@gmail.com)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="98px" height="30px" padding= "10px"/>](https://twitter.com/AviralTandon5) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="98px" height="30px" padding= "10px">](https://www.instagram.com/aviral_tandon/)
 
 </div>
 <hr/>
