@@ -89,7 +89,7 @@
 
 <summary><h2>🏅 Coding Platforms</h2></summary>
 <div align = "center">
-<a href="https://www.leetcode.com/aviral_tandon target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/aviral_tandon/" width="98px" height="25px" padding= "10px"/></a>
+<a href="https://www.leetcode.com/aviral_tandon" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/aviral_tandon/" width="98px" height="25px" padding= "10px"/></a>
 <a href="https://auth.geeksforgeeks.org/user/aviraltandon20/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="https://auth.geeksforgeeks.org/user/aviraltandon20/practice/" width="128px" height="25px" padding= "10px"/></a>
 </div>
 <br/>
