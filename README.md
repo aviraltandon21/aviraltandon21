@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Aviral Tandon <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Computer+Science+Student;MERN+Stack+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Computer+Science+Student;Loves+Problem+Solving;Aspiring+Software+Developer&center=true&width=500&height=50"></a>
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">Glad to see you here</h1>
