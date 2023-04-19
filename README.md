@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">Glad to see you here</h1>
-<p align="center"><b>  <a href="https://aviraltandon.com/">
+<p align="center"><b>  <a href="https://aviraltandon.me/">
     <img width="100" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
  </p>
@@ -99,7 +99,7 @@
 
 <div align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" width="98px" height="30px" padding= "10px">](https://aviraltandon.com/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" width="98px" height="30px" padding= "10px">](https://aviraltandon.me/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="98px" height="30px" padding= "10px"/>](https://www.linkedin.com/in/aviral-tandon-b852891a1/)
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="98px" height="30px" padding= "10px">](mailto:aviraltandon20@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="98px" height="30px" padding= "10px"/>](https://twitter.com/AviralTandon5) 
